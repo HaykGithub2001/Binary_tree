@@ -1,5 +1,4 @@
-#include "binary_tree.cpp"
-
+#include "binary_tree.h"
 int main()
 {
 	Binary_tree a;
